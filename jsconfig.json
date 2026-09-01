@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "ignoreDeprecations": "6.0",
+        "target": "esnext",
+        "lib": [
+            "esnext"
+        ],
+        "baseUrl": ".."
+    },
+    "include": [
+        "../**/*.js",
+        "../**/*.jsx",
+        "../**/*.ts",
+        "../**/*.tsx"
+    ]
+}
